@@ -486,6 +486,7 @@ plot_2d_vectors(a, a_rotated,
 ```
 
 Результат работы 
+
 ![Доп задание консоль](https://github.com/Vox0n/Basic-Mathematics-for-IA/blob/main/LB1/picture/%D0%94%D0%BE%D0%BF%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%202.png)
 ![Доп задание](https://github.com/Vox0n/Basic-Mathematics-for-IA/blob/main/LB1/picture/%D0%94%D0%BE%D0%BF%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B.png)
 
